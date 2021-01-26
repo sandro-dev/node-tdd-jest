@@ -1,18 +1,18 @@
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    if (process.env.DB_DIALECT === 'postgres') {
+    if (process.env.DB_DIALECT === "postgres") {
       queryInterface.sequelize.query(
-        'CREATE EXTENSION IF NOT EXISTS "uuid-ossp"',
+        'CREATE EXTENSION IF NOT EXISTS "uuid-ossp"'
       );
     }
 
-    queryInterface.createTable('users', {
+    queryInterface.createTable("users", {
       id: {
         type: Sequelize.UUID(),
         allowNull: false,
         primaryKey: true,
-        generationStrategy: 'uuid',
-        defaultValue: Sequelize.literal('uuid_generate_v4()'),
+        generationStrategy: "uuid",
+        defaultValue: Sequelize.literal("uuid_generate_v4()"),
       },
       name: {
         type: Sequelize.STRING(100),
@@ -47,5 +47,5 @@ module.exports = {
     });
   },
 
-  down: queryInterface => queryInterface.dropTable('users'),
+  down: (queryInterface) => queryInterface.dropTable("users"),
 };

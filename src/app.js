@@ -1,9 +1,9 @@
-import 'dotenv/config';
-import express from 'express';
+import "dotenv/config";
+import express from "express";
 
-import './database';
+import "./database";
 
-import routes from './routes';
+import routes from "./routes";
 
 class App {
   constructor() {

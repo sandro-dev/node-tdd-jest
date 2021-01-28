@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/sandro-dev/desafio-tecnico-gptw/master/.github/gptw_logo.png" width="30%">
-</h1>
-
 # Node TDD Jest Structure
 
 ## Indíce

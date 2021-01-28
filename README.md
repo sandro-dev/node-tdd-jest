@@ -24,9 +24,13 @@ Um projeto base que criei com algumas configurações muito utilizadas em outros
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express.js](https://expressjs.com/)
-- [Nodemon](https://nodemon.io/)
+
+  | Tecnologia  |  Descrição  |
+  | --- | --- |
+  | [Node.js](https://nodejs.org/en/)  | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine |
+  | [Express.js](https://expressjs.com/) | Fast, unopinionated, minimalist web framework for Node.js |
+  | [Nodemon](https://nodemon.io/) | Nodemon is a utility depended on by over 1.5 million projects, that will monitor for any changes in your source and automatically restart your server. Perfect for development.  |
+
 - [Sucrase](https://sucrase.io/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [cross-env](https://www.npmjs.com/package/cross-env)

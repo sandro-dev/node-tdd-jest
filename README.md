@@ -30,24 +30,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   | [Node.js](https://nodejs.org/en/)  | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine |
   | [Express.js](https://expressjs.com/) | Fast, unopinionated, minimalist web framework for Node.js |
   | [Nodemon](https://nodemon.io/) | Nodemon is a utility depended on by over 1.5 million projects, that will monitor for any changes in your source and automatically restart your server. Perfect for development.  |
-
-- [Sucrase](https://sucrase.io/)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [cross-env](https://www.npmjs.com/package/cross-env)
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Docker](https://www.docker.com/)
-- [Sequelize](https://sequelize.org/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Jest](https://jestjs.io/)
-- [Sucrease Jest](https://www.npmjs.com/package/@sucrase/jest-plugin)
-- [Supertest](https://www.npmjs.com/package/supertest)
-- [Faker](https://github.com/marak/Faker.js/)
-- [Factory Girl](https://www.npmjs.com/package/factory-girl)
-- [Yup](https://github.com/jquense/yup)
-- [Validator](https://www.npmjs.com/package/validator)
-- [JWT](https://jwt.io/)
-- [bcrypt](https://www.npmjs.com/package/bcrypt)
+  | [Sucrase](https://sucrase.io/) | Super-fast Babel alternative |
+  | [dotenv](https://www.npmjs.com/package/dotenv) | Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. |
+  | [cross-env](https://www.npmjs.com/package/cross-env) | Run scripts that set and use environment variables across platforms |
+  | [ESLint](https://eslint.org/) | Find and fix problems in your JavaScript code |
+  | [Prettier](https://prettier.io/) | An opinionated code formatter |
+  | [Docker](https://www.docker.com/) | Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. |
+  | [Sequelize](https://sequelize.org/) | Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more. |
+  | [PostgreSQL](https://www.postgresql.org/) | PostgreSQL: The World's Most Advanced Open Source Relational Database |
+  | [Jest](https://jestjs.io/) | Jest is a delightful JavaScript Testing Framework with a focus on simplicity. |
+  | [Sucrease Jest](https://www.npmjs.com/package/@sucrase/jest-plugin) | This is a simple Jest plugin that makes it easy to use Sucrase when running Jest tests. |
+  | [Supertest](https://www.npmjs.com/package/supertest) | The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by superagent. |
+  | [Faker](https://github.com/marak/Faker.js/) | generate massive amounts of fake data in the browser and node.js |
+  | [Factory Girl](https://www.npmjs.com/package/factory-girl) | factory-girl is a factory library for Node.js and the browser that is inspired by Factory_girl. It works asynchronously and supports associations and the use of functions for generating attributes. |
+  | [Yup](https://github.com/jquense/yup) | Yup is a JavaScript schema builder for value parsing and validation. |
+  | [Validator](https://www.npmjs.com/package/validator) | A library of string validators and sanitizers. |
+  | [JWT](https://jwt.io/) | JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties. |
+  | [bcrypt](https://www.npmjs.com/package/bcrypt) | A library to help you hash passwords. bcrypt is a password-hashing function designed by Niels Provos and David Mazières, based on the Blowfish cipher and presented at USENIX in 1999 |
 
 ## :wrench: Instalação
 

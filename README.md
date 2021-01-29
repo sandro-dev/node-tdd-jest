@@ -1,17 +1,10 @@
 <h1 align="center">
   <img src="https://repository-images.githubusercontent.com/333132122/5c7dea80-6225-11eb-8bfb-3b09e528b98c" alt="TDD Jest Node" />
-  <br/>
   Tests and TDD with Node.JS
-  <div>
-    <img src="https://img.shields.io/badge/-Node.js-green" />
-    <img src="https://img.shields.io/badge/-JEST-brightgreen" />
-    <img src="https://img.shields.io/badge/-faker.js-red" />
-    <img src="https://img.shields.io/badge/-factory--girl-blueviolet" />
-  </div>
 </h1>
 
 
-<p align="center">
+<p style="text-align: center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/sandro-dev/node-tdd-jest?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/sandro-dev/node-tdd-jest?style=plastic)

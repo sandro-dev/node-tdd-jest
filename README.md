@@ -12,18 +12,13 @@
 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sandro-dev/node-tdd-jest/?color=%2304D361">
 
-  <a href="https://sandrosantos.dev">
-    <img alt="Made by Sandro Santos" src="https://img.shields.io/badge/made%20by-Sandro%20Santos-%2304D361">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/sandro-dev/node-tdd-jest/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/sandro-dev/node-tdd-jest/?style=social">
-  </a>
+![GitHub repo size](https://img.shields.io/github/repo-size/sandro-dev/node-tdd-jest?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/sandro-dev/node-tdd-jest?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/sandro-dev/node-tdd-jest?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/sandro-dev/node-tdd-jest?color=red&style=plastic)
 </p>
+
 
 
 

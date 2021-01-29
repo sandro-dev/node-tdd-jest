@@ -1,4 +1,31 @@
-# Node TDD Jest Structure
+<h1 align="center">
+  <img src="https://repository-images.githubusercontent.com/333132122/5c7dea80-6225-11eb-8bfb-3b09e528b98c" alt="TDD Jest Node" />
+  <br/>
+  Tests and TDD with Node.JS
+  <div>
+    <img src="https://img.shields.io/badge/-Node.js-green" />
+    <img src="https://img.shields.io/badge/-JEST-brightgreen" />
+    <img src="https://img.shields.io/badge/-faker.js-red" />
+    <img src="https://img.shields.io/badge/-factory--girl-blueviolet" />
+  </div>
+</h1>
+
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sandro-dev/node-tdd-jest/?color=%2304D361">
+
+  <a href="https://sandrosantos.dev">
+    <img alt="Made by Sandro Santos" src="https://img.shields.io/badge/made%20by-Sandro%20Santos-%2304D361">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
+  <a href="https://github.com/sandro-dev/node-tdd-jest/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/sandro-dev/node-tdd-jest/?style=social">
+  </a>
+</p>
+
+
 
 ## Indíce
 
@@ -18,6 +45,8 @@ Um projeto base que criei com algumas configurações muito utilizadas em outros
 - Framework Jest
 
 <br />
+
+
 
 
 ## :gear: Tecnologias

@@ -6,17 +6,20 @@
 <br />
 <br />
 
-<div style="text-align: center; margin: 50px;">
+<p align="center">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sandro-dev/node-tdd-jest?style=plastic">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sandro-dev/node-tdd-jest?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/sandro-dev/node-tdd-jest?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/sandro-dev/node-tdd-jest?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/sandro-dev/node-tdd-jest?color=red&style=plastic)
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sandro-dev/node-tdd-jest?style=plastic">
 
-</div>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sandro-dev/node-tdd-jest?style=plastic">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sandro-dev/node-tdd-jest?color=red&style=plastic">
+
+</p>
 
 
-
+<br />
+<br />
 
 
 ## Indíce
